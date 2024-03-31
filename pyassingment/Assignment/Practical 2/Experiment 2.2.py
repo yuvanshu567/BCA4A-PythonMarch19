@@ -1,7 +1,7 @@
 #WAP to demonstrate built in functions of Strings
 print("Name:Yuvanshu Bansal\nRoll No: 2210997279")
 
-str = "Agamjot Singh"
+str = "Yuvanshu Bansal"
 print(str)
 print(str.upper())
 print(str.lower())
